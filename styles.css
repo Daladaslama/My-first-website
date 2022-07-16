@@ -5,3 +5,7 @@ h1 {
 p {
   font-size: 1rem;
 }
+
+img {
+  width: 300px;
+}
